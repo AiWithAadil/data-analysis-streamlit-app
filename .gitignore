@@ -1,5 +1,4 @@
-# Ignore app.py file
-app.py
+
 
 # Ignore virtual environment folder named "q3"
 q3/
