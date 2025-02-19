@@ -1,1 +1,11 @@
+# Ignore app.py file
+app.py
 
+# Ignore virtual environment folder named "q3"
+q3/
+
+# Ignore system-generated files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
